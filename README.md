@@ -1,9 +1,7 @@
-# HesapMakinesi
- css grid layout - responsive tasarım - çalışan hesap makinesi
+# Calculator-Responsive-Design
 
+ css grid layout - responsive design - calculator
 
-Github Linki :  https://github.com/aysegulkuzucu/HesapMakinesi
+Website Link : https://aysegulkuzucu.github.io/HesapMakinesi/
 
-Web Site Linki : https://aysegulkuzucu.github.io/HesapMakinesi/
-
-internet : https://youtu.be/ierIZ751DD8
+Review Calculator : https://youtu.be/ierIZ751DD8
